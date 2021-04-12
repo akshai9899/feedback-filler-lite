@@ -40,5 +40,7 @@ run
 ```
 >>> keyboard.play(fill, speed_factor = 3)
 ```
+Fill the captcha and submit. 
+
 
 Rinse and repeat
